@@ -17,13 +17,13 @@
 package com.github.mynewworkspace;
 
 public class Cheeses {
-	
-	public static final String[] LETTERS = new String[] { "#", "A", "B", "C", "D",
-			"E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q",
-			"R", "S", "T", "U", "V", "W", "X", "Y", "Z" };
-	
-	
-	public static final String QQ_FUCTIONS[] = {"开通会员", "QQ钱包", "个性装扮", "我的收藏", "我的相册","我的文件","我的名片夹", "登出"};
+
+    public static final String[] LETTERS = new String[]{"#", "A", "B", "C", "D",
+            "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q",
+            "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
+
+
+    public static final String QQ_FUCTIONS[] = {"开通会员", "QQ钱包", "个性装扮", "我的收藏", "我的相册", "我的文件", "我的名片夹", "登出"};
 
     public static final String[] CHEESE_STRINGS = {
             "Abbaye de Belloc", "Abbaye du Mont des Cats", "Abertam", "Abondance", "Ackawi",
@@ -157,17 +157,7 @@ public class Cheeses {
             "Xanadu", "Xynotyro", "Yarg Cornish", "Yarra Valley Pyramid", "Yorkshire Blue",
             "Zamorano", "Zanetti Grana Padano", "Zanetti Parmigiano Reggiano"
     };
-    
-    public static final String[] NAMES = new String[] { "%qwer@","68*#","宋江", "卢俊义", "吴用",
-		"公孙胜","小空老湿", "小泽老湿",  "关胜", "林冲","波多老湿", "秦明", "呼延灼", "花荣", "柴进", "李应", "朱仝", "鲁智深",
-		"武松", "董平", "张清", "杨志", "徐宁", "索超", "戴宗", "刘唐", "李逵", "史进", "穆弘",
-		"雷横", "李俊", "阮小二", "张横", "阮小五", " 张顺", "阮小七", "杨雄", "石秀", "解珍",
-		" 解宝", "燕青", "朱武", "黄信", "孙立", "宣赞", "郝思文", "韩滔", "彭玘", "单廷珪",
-		"魏定国", "萧让", "裴宣", "欧鹏", "邓飞", " 燕顺", "杨林", "凌振", "蒋敬", "吕方",
-		"郭 盛", "安道全", "皇甫端", "王英", "扈三娘", "鲍旭", "樊瑞", "孔明", "孔亮", "项充",
-		"李衮", "金大坚", "马麟", "童威", "童猛", "孟康", "侯健", "陈达", "杨春", "郑天寿",
-		"陶宗旺", "宋清", "乐和", "龚旺", "丁得孙", "穆春", "曹正", "宋万", "杜迁", "薛永", "施恩",
-		"周通", "李忠", "杜兴", "汤隆", "邹渊", "邹润", "朱富", "朱贵", "蔡福", "蔡庆", "李立",
-		"李云", "焦挺", "石勇", "孙新", "顾大嫂", "张青", "孙二娘", " 王定六", "郁保四", "白胜",
-		"时迁", "段景柱" };
+
+    public static final String[] NAMES = new String[]{"路飞", "索隆", "娜美", "乌索普", "山治", "乔巴", "罗宾", "弗兰奇", "布鲁克", "哥尔·D·罗杰", "西尔巴兹·雷利", "白胡子", "红发·香克斯", "凯多", "马歇尔·D·蒂奇", "巴索罗米·熊", "波雅·汉库克", "巴基", "乔拉可尔·米霍克", "爱德华·威布尔", "贝波", "西格", "亚尔丽塔", "巴基", "克洛", "克利克", "冯·克雷", "阿龙",
+            "巴兹尔·霍金斯", "月光·莫利亚"};
 }
